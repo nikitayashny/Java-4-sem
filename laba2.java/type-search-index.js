@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"by.belstu.it.yashny","l":"JavaTest"},{"p":"by.belstu.it.yashny","l":"StringWrapper"},{"p":"by.belstu.it.yashny","l":"TestClass"},{"p":"by.belstu.it.yashny","l":"TextFunction"}];updateSearchResults();
